@@ -1,0 +1,24 @@
+.paragraphe1{
+	background-color: rgb(200,200,200);
+	text-align: center;
+	margin:100px;
+	margin-left: 300px;
+	margin-right: 300px;
+	padding:10px;
+	border: solid 5px #FF2676;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	font-weight: bold;
+	position: relative;
+}
+.cadre-circle {
+	width:50px;
+	height: 50px;
+	position: absolute;
+	background-color: green;
+	border-radius: 50%;
+	right:0px;
+	top:0px;
+	background-image: url("https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/68dd54ca-60cf-4ef7-898b-26d7cbe48ec7/10-dithering-opt.jpg");
+	background-size: cover !important;
+}
